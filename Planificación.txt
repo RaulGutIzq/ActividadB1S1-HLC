@@ -1,0 +1,4 @@
+Las distintas variables las declararé usando la palabra reservada let, estas declaraciones estarán en la parte superior del código para hacer el código más legible.
+Aunque el apartado b no tiene nada que ver con el resto del ejercicio, lo introduciré en el mismo bloque de código que el resto del programa.
+Aunque este apartado podría necesitar distintas variables para almacenar los distintos resultados, no me parece muy perjudicial almacenar este resultado en una única variable res.
+Una vez terminado y probado el programa, lo subiré a un repositorio junto a este documento en formato txt y adjuntando un README.MD con la explicación de cómo ejecutar el programa.
